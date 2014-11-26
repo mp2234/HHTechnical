@@ -1,7 +1,7 @@
 HHTechnical
 ===========
 
-a short puzzle
+a short puzzle: Technical exercise [ Complete ] 
 
 Assumptions: 
 * The user machine will be able to execute Java.
@@ -15,7 +15,7 @@ Choices:
 * A hashmap was used to store computed values of secret() to reduce the computational overhead of an executing isAdditive for larger N's. The performance gain can be guessed at by looking at the ratio provided in debug mode. 
 * The implementation of secret() can be changed in the Secret.java class. Recompile and run Evaluate to reevaluate its additive status
 
-Hannon Hill Writing Exercise:
+Hannon Hill Writing Exercise: [ in progress ]
 * Who are the three main competitors for Hannon Hill's Cascade Server? How do they differentiate themselves?
 * What's the difference between SharePoint and Cascade Server?
 * What are the three most popular web development technologies?What is the relationship with those and Cascade Server?
