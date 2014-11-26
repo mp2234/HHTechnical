@@ -13,6 +13,7 @@ Removed from the shipped version is debug mode, enabled by passing in a second p
 Choices:
 * Java was selected for familiarity and also because it was the primary choice listed in the prompt
 * A hashmap was used to store computed values of secret() to reduce the computational overhead of an executing isAdditive for larger N's. The performance gain can be guessed at by looking at the ratio provided in debug mode. 
+* The implementation of secret() can be changed in the Secret.java class. Recompile and run Evaluate to reevaluate its additive status
 
 Hannon Hill Writing Exercise:
 * Who are the three main competitors for Hannon Hill's Cascade Server? How do they differentiate themselves?
