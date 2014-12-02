@@ -21,5 +21,23 @@ Hannon Hill Writing Exercise: [ in progress ]
 * What are the three most popular web development technologies?What is the relationship with those and Cascade Server?
 * What are the three main industry verticals for Hannon Hill? Why are they the main ones?
 * What are some of the new opportunities in the CMS market?
+* 
+Who are the three main competitors for Hannon Hill's Cascade Server? How do they differentiate themselves?
+	Sharepoint
+	Drupal
+What's the difference between SharePoint and Cascade Server?
+
+What are the three most popular web development technologies?What is the relationship with those and Cascade Server?
+HTML
+CSS 
+JS
+XML?
+
+What are the three main industry verticals for Hannon Hill? Why are they the main ones?
+Higher education
+Government
+Healthcare
+
+What are some of the new opportunities in the CMS market?
 
 
