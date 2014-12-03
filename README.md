@@ -23,16 +23,15 @@ Hannon Hill Writing Exercise: [ in progress ]
 	- Wordpress - another open-source CMS. Its primary claim-to-fame is simplicity and the ease of upgrading.
 
 * What's the difference between SharePoint and Cascade Server?
-- The main difference between SharePoint and Cascade Server should be intended application. While both can be used in similar capacities, SharePoint with its emphasis on document and content management is better suited for internal collaboration. Cascade Server on the other hand, being built to serve static websites, is well-suited to producing high traffic public-facing websites.
+	- The main difference between SharePoint and Cascade Server should be intended application. While both can be used in similar capacities, SharePoint with its emphasis on document and content management is better suited for internal collaboration. Cascade Server on the other hand, being built to serve static websites, is well-suited to producing high traffic public-facing websites.
 
 * What are the three most popular web development technologies?What is the relationship with those and Cascade Server?
-- The three most popular web development technologies are HTML/CSS, Javascript, and Java. As a webpage-producing CMS, Cascade Server is inextricably tied to HTML, CSS, and Javascript, the primary technologies involved in display and usage of web pages. As for Java, Cascade Server is written in Java and should handle most or all of its serverside operations.
+	- The three most popular web development technologies are HTML/CSS, Javascript, and Java. As a webpage-producing CMS, Cascade Server is inextricably tied to HTML, CSS, and Javascript, the primary technologies involved in display and usage of web pages. As for Java, Cascade Server is written in Java and should handle most or all of its serverside operations.
 
 * What are the three main industry verticals for Hannon Hill? Why are they the main ones?
-- Higher education
-- Government
-- Healthcare
+	- From looking at the Customer Case Studies, the main verticals for Hannon Hill are higher education, government, and healthcare. These industries make good customers for an CMS serving static content because their websites are often used to publish high-importance reference materials. The customer support line provided by a Cascade Server subscription could be critically important to customers in these industries, moreso than say a more casual blog or journal-type website.
 
 * What are some of the new opportunities in the CMS market?
-
+	- Targetted marketing. Not really so important for the main customers of Cascade Server who aren't typically trying to sell things, but personalized content based on information gleaned from various user metrics.
+	- Seamless upgrades. One of the issues that has plagued high-content sites (such as the types CMSs deliver) is painlessly completing a system upgrade. The typical volume of a site that needs a CMS to manage its content makes regression testing during an upgrade a serious undertaking.
 
