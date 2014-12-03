@@ -15,7 +15,7 @@ Choices:
 * A hashmap was used to store computed values of secret() to reduce the computational overhead of an executing isAdditive for larger N's. The performance gain can be guessed at by looking at the ratio provided in debug mode. 
 * The implementation of secret() can be changed in the Secret.java class. Recompile and run Evaluate to reevaluate its additive status
 
-Hannon Hill Writing Exercise: [ in progress ]
+Hannon Hill Writing Exercise: [ Complete ]
 
 * Who are the three main competitors for Hannon Hill's Cascade Server? How do they differentiate themselves?
 	- Sharepoint - Microsoft's collaborative document and content manager/analyzer has the capacity to produce websites as well. It is differentiated from Cascade Server by its interface and intended use - it looks like Microsoft Office and is often used to share office documents.
